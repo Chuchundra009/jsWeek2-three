@@ -1,0 +1,19 @@
+.box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 50vh;
+    justify-content: center;
+}
+
+.btn {
+    background-color: rgb(34, 28, 28);
+    color: rgb(239, 247, 244);
+    padding: 10px 50px;
+    border-radius: 10px;
+}
+
+.box__slider-img {
+    width: 337px;
+    height: 279px;
+}
